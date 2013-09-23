@@ -10,9 +10,9 @@ import java.util.BitSet;
 public class Board extends BitSet{
 
     public Board() {
-
+      //hello
     }
     public Board(int hole) {
-
+         //test
     }
 }
