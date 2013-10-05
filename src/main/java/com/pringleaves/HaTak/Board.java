@@ -1,3 +1,5 @@
+package com.pringleaves.HaTak;
+
 import java.util.BitSet;
 
 /**
